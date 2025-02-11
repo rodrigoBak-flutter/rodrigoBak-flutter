@@ -5,7 +5,7 @@
 
 - **Email:** [rodrigosebastianbak@hotmail.com](mailto:rodrigosebastianbak@hotmail.com)
 - **LinkedIn:** [rodrigo-bak](https://www.linkedin.com/in/rodrigo-bak)
-- **GitHub:** [rodrigoBak-flutter](https://github.com/rodrigoBak-flutter)
+
 
 
 ---
